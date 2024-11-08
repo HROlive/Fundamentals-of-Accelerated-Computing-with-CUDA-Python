@@ -14,7 +14,6 @@ You’ll learn how to:
 - Use Numba to compile CUDA kernels from NumPy universal functions (ufuncs);
 - Use Numba to create and launch custom CUDA kernels;
 - Apply key GPU memory management techniques.
--
 - Upon completion, you’ll be able to use Numba to compile and launch CUDA kernels to accelerate your Python applications on NVIDIA GPUs.
 
 <a name="information"></a>
