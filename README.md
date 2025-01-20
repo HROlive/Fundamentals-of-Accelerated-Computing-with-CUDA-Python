@@ -32,4 +32,4 @@ More detailed information and links for the course can be found on the [course w
 
 The certificate for the course can be found below:
 
-- ["Fundamentals of Accelerated Computing with CUDA Python" - NVIDIA Deep Learning Institute]() (Issued On: November 2024)
+- ["Fundamentals of Accelerated Computing with CUDA Python" - NVIDIA Deep Learning Institute](https://learn.nvidia.com/certificates?id=lixK_Nx1Siq8PuLGeQTH1w) (Issued On: January 2025)
